@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Natalia Górska
 - 👀 I’m interested in Frontend technologies
 - 🌱 I’m currently learning React Redux
-- 💞️ I’m looking to collaborate on as a Junior Frontent Developer
+- 💞️ I’m working as a Frontend Developer
 - 📫 How to reach me - my email: nataliagorska27@gmail.com
 
 <!---
